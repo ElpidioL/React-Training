@@ -8,3 +8,6 @@ It can register a meetup using Firebase as DB, you can add a new, remove and fav
 ![image](https://user-images.githubusercontent.com/96087622/154164751-ff348487-d441-4013-8d6e-8a57ebfe0d1b.png)
 
 ![image](https://user-images.githubusercontent.com/96087622/154164884-167d657a-ae36-4bd9-8804-d06889d03451.png)
+
+All credits to Academind on youtube.
+https://www.youtube.com/watch?v=Dorf8i6lCuk
